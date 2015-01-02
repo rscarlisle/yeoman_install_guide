@@ -8,13 +8,13 @@ I'm writing the article I wish I had read before whimsically deciding to install
 
 * System requirements - check the version of OS X. Some versions may be incompatible with a Yeoman install.
 * List of software - brew, npm, nodejs, yeoman, bower, grunt. Check current and latest versions. 
-* Project management - create a project folder tests. Plus, track time with project mgt s/w ie chrometa & trello.
+* Project management - create a project folder. Track time with project mgt s/w ie chrometa & trello.
 * CLI navigation - involves working from command line, creating/editing configuration files & symlinks, etc.
 * Permissions - do you use sudo; if so, what potential problems does it introduce? Better alternative(s)?
 * Help resources - Stackoverflow, groups, community, helpful links and search strings… Post questions, bugs…
 * Document tasks - logging your experiences, insights, terminal activity log, challenges, defeats, & victories. 
 * Time management - did you complete the install within a reasonable time frame - time expectations met?
-* Conclusion - did article properly guide you successfully through - install process? Are you confident? Pleased?
+* Conclusion - did article properly guide you successfully through install process? Are you confident? Pleased?
 * Time/cost required to complete project - estimated @ 5 hours ~> professional time invested @ $500.
 
 ###System requirements
