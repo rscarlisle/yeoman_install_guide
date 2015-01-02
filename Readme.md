@@ -1,6 +1,6 @@
 ##Installing Yeoman Correctly, The First Time
 
-"Installations are tricky. Just like deployments. You read an article or see a cool video on how to use cutting edge tools to optimize Javascript workflow development, and you decide to try it out. Suddenly it's 10 hours later and 3am in the morning, and you're completely lost in the woods! Somehow, the project that you were told was so simple, has totally wasted 10 hours of your life. You know, 10 hours here and another 10 there - really starts to add up!"
+Installations are tricky. Just like deployments. You read an article or see a cool video on how to use cutting edge tools to optimize Javascript workflow development, and you decide to try it out. Suddenly it's 10 hours later and 3am in the morning, and you're completely lost in the woods! Somehow, the project that you were told was so simple, has totally wasted 10 hours of your life. You know, 10 hours here and another 10 there - really starts to add up!
 
 I'm writing the article I wish I had read before whimsically deciding to install Yeoman. Let's assume you're eager to get Yeoman installed on your Mac and don't have the luxury of burning 10 hours of time. 
 
@@ -8,17 +8,17 @@ I'm writing the article I wish I had read before whimsically deciding to install
 
 * System requirements - check the version of OS X. Some versions may be incompatible with a Yeoman install.
 * List of software - brew, npm, nodejs, yeoman, bower, grunt. Check current and latest versions. 
-* Project management - create a project folder test purposes. Plus, track time with project mgt s/w ie chrometa & trello.
-* CLI navigation - know how to work from the command line, creating and editing configuration files and symlinks, etc.
-* Permissions - should you be using sudo, and if so, what potential problems does it introduce? Better alternative(s)?
-* Help resources - Stackoverflow, groups & community help, helpful links and search strings… Post questions, bugs…
-* Document tasks - logging your experiences, insights, terminal activity log, challenges, defeats, and victories. 
+* Project management - create a project folder tests. Plus, track time with project mgt s/w ie chrometa & trello.
+* CLI navigation - involves working from command line, creating/editing configuration files & symlinks, etc.
+* Permissions - do you use sudo; if so, what potential problems does it introduce? Better alternative(s)?
+* Help resources - Stackoverflow, groups, community, helpful links and search strings… Post questions, bugs…
+* Document tasks - logging your experiences, insights, terminal activity log, challenges, defeats, & victories. 
 * Time management - did you complete the install within a reasonable time frame - time expectations met?
-* Conclusion - did this article properly guide you successfully through the install process? Are you confident? Pleased?
+* Conclusion - did article properly guide you successfully through - install process? Are you confident? Pleased?
 * Time/cost required to complete project - estimated @ 5 hours ~> professional time invested @ $500.
 
 ###System requirements
-My Macbook Pro 2009 is snow leopard - 10.6.8. Does my Mac meet the system requirements for installing Yeoman? If the answer is yes, I'm good to go. If not, I just saved myself a day of wasted time and frustration. Where are the best places to get that question answered? [research this step, and return with details and answers…].
+My Macbook Pro 2009 is snow leopard - 10.6.8. Does my Mac meet the system requirements for installing Yeoman? If the answer is yes, I'm good to go. If not, I just saved myself a day of wasted time and frustration. Where are the best places to get that question answered?
 
 While confirming system requirements you can also confirm the software you will need. Is there a different combination?
 
